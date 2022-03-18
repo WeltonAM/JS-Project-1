@@ -9,6 +9,7 @@ body {
     background-color: #2e2e2e;
     border-radius: 10px;
     box-shadow: 1px 1px 5px #000;
+    text-align: center;
 }
 
 .btn {
@@ -40,7 +41,7 @@ body {
 }
 
 footer {
-    margin-top: 100px;
+    margin-top: 70px;
     text-align: center;
 }
 
