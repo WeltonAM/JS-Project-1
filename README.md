@@ -2,4 +2,4 @@
  
  Web Dev course (Udemy)
 
-https://weltonam.github.io/Project10_Calculator/
+https://weltonam.github.io/JS-Project-1/
